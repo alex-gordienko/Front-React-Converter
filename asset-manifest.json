@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Front-React-Converter/static/css/main.e43b3f8f.chunk.css",
+    "main.js": "/Front-React-Converter/static/js/main.ec219405.chunk.js",
+    "main.js.map": "/Front-React-Converter/static/js/main.ec219405.chunk.js.map",
+    "runtime-main.js": "/Front-React-Converter/static/js/runtime-main.2ebbebac.js",
+    "runtime-main.js.map": "/Front-React-Converter/static/js/runtime-main.2ebbebac.js.map",
+    "static/js/2.15240759.chunk.js": "/Front-React-Converter/static/js/2.15240759.chunk.js",
+    "static/js/2.15240759.chunk.js.map": "/Front-React-Converter/static/js/2.15240759.chunk.js.map",
+    "index.html": "/Front-React-Converter/index.html",
+    "static/css/main.e43b3f8f.chunk.css.map": "/Front-React-Converter/static/css/main.e43b3f8f.chunk.css.map",
+    "static/js/2.15240759.chunk.js.LICENSE.txt": "/Front-React-Converter/static/js/2.15240759.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ebbebac.js",
+    "static/js/2.15240759.chunk.js",
+    "static/css/main.e43b3f8f.chunk.css",
+    "static/js/main.ec219405.chunk.js"
+  ]
+}
